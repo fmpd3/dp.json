@@ -1,8 +1,8 @@
-{
+[
     "clientes": [
         {"id": 1, "nome": "Marcos Antônio", "opiniao": "Ótimo", "comentario": "Estava com problemas no meu celular, além de resolverem e atualizaram, ele está mais rápido."},
         {"id": 2, "nome": "Cleiton", "opiniao": "Ótimo", "comentario": "Serviço de qualidade e com preço bom."},
         {"id": 3, "nome": "Cristiane Moreira", "opiniao": "Ótimo", "comentario": "Serviço de qualidade e com preço bom."},
         {"id": 4, "nome": "Denise Pereira", "opiniao": "Ótimo", "comentario": "Meu computador estava com baixo desempenho, voltou como se eu tivesse comprado um novo."}
     ]
-}
+]
